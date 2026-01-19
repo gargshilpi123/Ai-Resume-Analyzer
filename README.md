@@ -4,9 +4,13 @@ The application uses Natural Language Processing (NLP) techniques and the spaCy 
 
 Key Features
 Upload and analyze resumes (PDF/DOCX)
+
 Automatic skill extraction using NLP
+
 Resume scoring and feedback generation
+
 Job domain prediction based on resume content
+
 Recommended skills and courses
 User feedback collection
 Interactive UI built with Streamlit
