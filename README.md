@@ -55,4 +55,4 @@ This project is useful for:
 
 3. Clean modular code structure
 
-Easy to deploy locally
+4. Easy to deploy locally
