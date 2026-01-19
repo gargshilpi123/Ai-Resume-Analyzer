@@ -4,51 +4,55 @@ The application uses Natural Language Processing (NLP) techniques and the spaCy 
 
 Key Features:
 
-Upload and analyze resumes (PDF/DOCX)
+1. Upload and analyze resumes (PDF/DOCX)
 
-Automatic skill extraction using NLP
+2. Automatic skill extraction using NLP
 
-Resume scoring and feedback generation
+3. Resume scoring and feedback generation
 
-Job domain prediction based on resume content
+4. Job domain prediction based on resume content
 
-Recommended skills and courses
+5. Recommended skills and courses
 
-User feedback collection
+6. User feedback collection
 
-Interactive UI built with Streamlit
+7. Interactive UI built with Streamlit
 
-MySQL database integration
+8. MySQL database integration
 
 Tech Stack
 
-Python
+1. Python
 
-Streamlit
+2. Streamlit
 
-spaCy
+3. spaCy
 
-PyResParser
+4. PyResParser
 
-MySQL
+5. MySQL
 
-Pandas & NumPy
+6. Pandas & NumPy
 
-NLTK
+7. NLTK
 
 Use Case:
 
 This project is useful for:
-Students and freshers improving their resumes
+1. Students and freshers improving their resumes
 
-Job seekers wanting role-based recommendations
+2. Job seekers wanting role-based recommendations
 
-Recruiters for quick resume screening
+3. Recruiters for quick resume screening
 
-Learning NLP-based document analysis
+4. Learning NLP-based document analysis
 
 💡 Project Highlights
-Beginner-friendly Python project
-Real-world application of NLP
-Clean modular code structure
+
+1. Beginner-friendly Python project
+
+2. Real-world application of NLP
+
+3. Clean modular code structure
+
 Easy to deploy locally
